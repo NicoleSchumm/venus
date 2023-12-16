@@ -1,4 +1,4 @@
-# Security Policy
+##Security!Policy
 
 forked from lotus
 
@@ -10,8 +10,8 @@ Please try to provide a clear description of any bugs reported, along with how t
 
 Here are some examples of bugs we would consider to be security vulnerabilities:
 
-* If you can spend from a `multisig` wallet you do not control the keys for.
-* If you can cause a miner to be slashed without them actually misbehaving.
+# If you can spend from a `multisig` wallet you do not control the keys for.
+# If you can cause a miner to be slashed without them actually misbehaving.
 * If you can maintain power without submitting windowed posts regularly.
 * If you can craft a message that causes lotus nodes to panic.
 * If you can cause your miner to win significantly more blocks than it should.
@@ -23,3 +23,4 @@ This is not an exhaustive list, but should provide some idea of what we consider
 ## Reporting a non security bug
 
 For non-security bugs, please simply file a GitHub [issue](https://github.com/filecoin-project/venus/issues/new?template=bug_report.md). 
+ 
